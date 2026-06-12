@@ -3,7 +3,7 @@ p# 🍎 FruitVision AI — Premium Real-Time Fruit Classification Web App
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/flask-%2314354C.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![GitHub Pages](https://img.shields.io/badge/github%20pages-%23121011.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://pages.github.com/)
+[![Railway](https://img.shields.io/badge/deploy-railway-%23563D7C.svg?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
 
 Proyek ini adalah aplikasi web interaktif untuk **klasifikasi jenis buah** secara real-time menggunakan **Convolutional Neural Network (CNN)**. UI dirancang dengan **dark mode premium**, **glassmorphism**, dan **floating neon particles**, memberikan pengalaman startup AI yang modern dan interaktif.
 
